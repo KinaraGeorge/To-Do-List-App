@@ -16,15 +16,13 @@ Use code with caution.
 Use the cd command to change directories:
 
 
-cd todo-list-app
-Use code with caution.
+cd todolistapp
 
 3. Install Dependencies:
 
 This installs all the necessary libraries the project needs to run:
 
 npm install
-Use code with caution.
 
 Running the App
 1. Start the Development Server:
@@ -32,8 +30,7 @@ Running the App
 Execute this command to start the development server:
 
 
-npm start
-Use code with caution.
+npm run dev /npm start
 
 2. Open Your Browser:
 
