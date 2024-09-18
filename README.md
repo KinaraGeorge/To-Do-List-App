@@ -7,7 +7,8 @@ Installation
 Open your terminal and run the following command, replacing <your-username> with your actual GitHub username:
 
 Bash
-git clone https://github.com/<your-username>/todo-list-app.git
+git clone git@github.com:KinaraGeorge/To-Do-List-App.git
+
 Use code with caution.
 
 2. Navigate to the Project Directory:
