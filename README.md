@@ -6,7 +6,7 @@ Installation
 
 Open your terminal and run the following command, replacing <your-username> with your actual GitHub username:
 
-Bash
+
 git clone git@github.com:KinaraGeorge/To-Do-List-App.git
 
 Use code with caution.
@@ -15,7 +15,7 @@ Use code with caution.
 
 Use the cd command to change directories:
 
-Bash
+
 cd todo-list-app
 Use code with caution.
 
@@ -23,7 +23,6 @@ Use code with caution.
 
 This installs all the necessary libraries the project needs to run:
 
-Bash
 npm install
 Use code with caution.
 
@@ -32,7 +31,7 @@ Running the App
 
 Execute this command to start the development server:
 
-Bash
+
 npm start
 Use code with caution.
 
